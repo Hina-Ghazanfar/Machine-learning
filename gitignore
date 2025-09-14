@@ -1,0 +1,30 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# OS
+.DS_Store
+
+# Environments
+.venv/
+env/
+venv/
+
+# Data
+data/
+*.csv
+*.xlsx
+*.xls
+*.tsv
+*.parquet
+*.pkl
+*.json
+
+# Plots/outputs
+figures/
+outputs/
